@@ -11,4 +11,5 @@ package ejemplo;
  */
 public class XavierCañizares {
     //hola 
+    JOptionPane.showMessageDialog(null, "Hola PANA");
 }
