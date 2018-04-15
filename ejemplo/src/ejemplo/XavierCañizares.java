@@ -5,11 +5,19 @@
  */
 package ejemplo;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Xavier
  */
 public class XavierCañizares {
     //hola 
-    JOptionPane.showMessageDialog(null, "Hola PANA");
+    public static void main(String[] args) {
+         JOptionPane.showMessageDialog(null, "Hola PANA");
+         JOptionPane.showMessageDialog(null, "Hola Cañi ");
+    }
+    
+            
+   
 }
