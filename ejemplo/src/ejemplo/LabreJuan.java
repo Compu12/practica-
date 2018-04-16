@@ -10,5 +10,7 @@ package ejemplo;
  * @author user
  */
 public class LabreJuan {
-    
+    public static void main(String[] args) {
+        System.out.println("hola .....");
+    }
 }
