@@ -12,7 +12,5 @@ import javax.swing.JOptionPane;
  * @author lenovo
  */
 public class TapiaDaniel {
-    public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null,"HOLA");
-    }
+    
 }
