@@ -16,5 +16,6 @@ public class LabreJuan {
         System.out.println("hola .....");
         //holaaaaa
         JOptionPane.showMessageDialog(null, "Hola Juan");
+        JOptionPane.showMessageDialog(null, "TapiaDasniel");
     }
 }
